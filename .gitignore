@@ -1,0 +1,13 @@
+# scan output / case notes may contain lab-specific IPs, creds, hostnames
+scans/
+case-notes/
+*.log
+
+# Splunk local config that may contain secrets (Azure app secret, HEC tokens)
+local/
+*.conf.bak
+.env
+
+# OS cruft
+.DS_Store
+Thumbs.db
