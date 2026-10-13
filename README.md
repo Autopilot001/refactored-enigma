@@ -77,8 +77,4 @@ This repo is designed as a **portfolio / learning project** for SOC analyst, det
 
 ## Legal / ethical scope
 
-Everything here is for an **isolated home lab you own**. Do not point the scanning scripts or brute-force simulation at any system you do not have explicit written authorization to test. Unauthorized port scanning or credential attacks against third-party systems is illegal in most jurisdictions (e.g., the U.S. Computer Fraud and Abuse Act, UK Computer Misuse Act).
-
-## License
-
-MIT — see `LICENSE`.
+lab owned VMware 
